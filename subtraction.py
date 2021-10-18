@@ -9,4 +9,3 @@ def subtraction ( x ):
         secondNum = round(random.uniform(0,100),2)
     print(firstNum, "-", secondNum)
     return (firstNum - secondNum)
-dskdksf
