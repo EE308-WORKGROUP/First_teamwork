@@ -4,7 +4,6 @@ import multiply_cyh
 import subtraction
 import division_zfr
 
-flag = True
 
 
 # 加减乘除函数选择器（type1等于加减乘除分别对应1 2 3 4，grade对应年级1-6）返回答案
